@@ -35,9 +35,9 @@ By Azim
 
 1. Buka **Visual Studio** lalu buatlah project baru (Visual Basic)
 
-2. Buat **Class** baru, dengan cara buka **Solution Explorer** klik kanan pada nama project klik **Add > New Item...**![Add New Item...](Image/Add New Item....png)
+2. Buat **Class** baru, dengan cara buka **Solution Explorer** klik kanan pada nama project klik **Add > New Item...**![Add New Item...](https://github.com/azimko/Visual-Basic---Dokumentasi/blob/master/Image/Add%20New%20Item....png)
 
-3. Lalu pilih **Class** dan masukkan nama class di sudut kiri bawah![Add New Item...](Image/Class - KoneksiDB.png)
+3. Lalu pilih **Class** dan masukkan nama class di sudut kiri bawah![Add New Item...](Image/Class%20-%20KoneksiDB.png)
 
 4. **Imports** **Sql** dan **SqlClient**
 
@@ -144,7 +144,7 @@ By Azim
    Koneksi.TutupKoneksiDB()
    ```
 
-6. Akan terlihat  kurang lebih seperti ini![2 Login](Image/2 Login.png)
+6. Akan terlihat  kurang lebih seperti ini![2 Login](https://github.com/azimko/Visual-Basic---Dokumentasi/blob/master/Image/2%20Login.png)
 
 ------
 
