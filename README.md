@@ -79,7 +79,7 @@ By Azim
    End Sub
    ```
 
-8. Akan terlihat kurang lebih seperti ini![1 KoneksiDB](Image/1 KoneksiDB.png)
+8. Akan terlihat kurang lebih seperti ini![1 KoneksiDB](https://github.com/azimko/Visual-Basic---Dokumentasi/blob/master/Image/1%20KoneksiDB.png)
 
 ------
 
